@@ -1,0 +1,12 @@
+{
+  "name": "@snail/config",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.11",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  }
+}
